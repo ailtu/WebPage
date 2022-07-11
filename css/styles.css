@@ -9,6 +9,7 @@ header {
     height: 90px;
     display: flex;
     align-items: center;
+    opacity: 0.8;
     background-color: #280028;
     justify-content: space-around;
 }
@@ -30,4 +31,8 @@ header {
 
 .menu li a:hover {
     background-color: rgb(77, 0, 77);
+}
+
+body {
+    background-image: url(../images/background_site.jpg);
 }
