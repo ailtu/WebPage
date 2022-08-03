@@ -36,10 +36,8 @@ header {
 body {
     background-image: url(../images/background_site.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
     background-position: center;
-    
-
+    background-size: 100%;
 }
 
 .btn {
