@@ -36,7 +36,9 @@ header {
 body {
     background-image: url(../images/background_site.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
+    background-position: center;
+    
 
 }
 
@@ -61,4 +63,5 @@ footer {
 
 .footerMessage a {
     color: aliceblue;
+    font-style: italic;
 }
