@@ -24,7 +24,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 90px;
+  min-height: 80px;
   opacity: 0.7;
   padding: 16px;
 }
@@ -34,6 +34,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  position: absolute;
 }
 
 .navbar-container .link {
@@ -67,7 +68,7 @@ body {
 }
 
 .footer-container .copyright {
-  font-size: 20px;
+  font-size: 14px;
   font-style: italic;
   text-align: center;
   color: aliceblue;
