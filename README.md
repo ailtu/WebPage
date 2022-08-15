@@ -4,6 +4,15 @@
  
 - My portfolio website, where I present my projects, and contact.
 
+## Tecnologias usadas: Technologies used: 
+
+<div align="left">
+<img height="35" widht="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="35" widht="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="35" widht="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="37" widht="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+  
 # Status do desenvolvimento: Development status:
 
 - in construction ⏳ [Acesse por aqui!](https://zeld4coffee.github.io/WebPage/)
