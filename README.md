@@ -4,8 +4,12 @@
  
 - My portfolio website, where I present my projects, and contact.
 
-## Tecnologias usadas: technologies used: 
+## Tecnologias usadas: Technologies used: 
 
+<img height="35" widht="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="35" widht="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="35" widht="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="35" widht="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 # Status do desenvolvimento: Development status:
 
