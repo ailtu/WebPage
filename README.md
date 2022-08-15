@@ -4,6 +4,9 @@
  
 - My portfolio website, where I present my projects, and contact.
 
+## Tecnologias usadas: technologies used: 
+
+
 # Status do desenvolvimento: Development status:
 
 - in construction ⏳ [Acesse por aqui!](https://zeld4coffee.github.io/WebPage/)
