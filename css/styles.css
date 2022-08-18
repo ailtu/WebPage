@@ -84,8 +84,8 @@ body {
 
   border-top-color: rgba(225, 225, 225, 0.5);
   border-left-color: rgba(225, 225, 225, 0.5);
-  border-bottom-color: rgba(225, 225, 225, 0.1);
-  border-right-color: rgba(225, 225, 225, 0.1);
+  border-bottom-color: rgba(225, 225, 225, 0.5);
+  border-right-color: rgba(225, 225, 225, 0.5);
 }
 
 .cbl {
