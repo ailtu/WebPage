@@ -15,8 +15,10 @@ html {
 
 body {
   background-image: url(../images/background2_site.jpg);
-  background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .header-container {
@@ -40,7 +42,7 @@ body {
 .navbar-container .link {
   color: #fff;
   font-size: 20px;
-  padding: 5px 15px;
+  padding: 6px 20px;
   font-style: italic;
   border-radius: 10px;
   text-align: center;
@@ -53,21 +55,41 @@ body {
   background-color: var(--secondary);
 }
 
-#home-message {
-  width: 100%;
-  display: flex;
-  color: black;
-  padding: 5px 20px;
-  align-items: center;
-  justify-content: space-around;
+.card-title {
+  width: 90%;
+  color: #fff;
+  margin: 0 auto;
+  max-width: 40rem;
+  font-size: 40px;
+  text-align: center;
 }
 
-.home-info {
-  gap: 15px;
-  width: 50%;
-  display: flex;
-  flex-direction: column;
-  text-align: justify;
+.card-text {
+  color: #fff;
+  margin: 0 auto;
+  width: 90%;
+
+}
+
+.card {
+  width: 100%;
+  max-width: 500px;
+  padding: Srem 3.5rem;
+
+  border-radius: 1rem;
+  border: 0.5px solid transparent;
+
+  backdrop-filter: blur(0.5rem);
+  box-shadow: 1.5rem 1.5rem 1.5rem rgba(0, 0, 0, 0.5);
+
+  border-top-color: rgba(225, 225, 225, 0.5);
+  border-left-color: rgba(225, 225, 225, 0.5);
+  border-bottom-color: rgba(225, 225, 225, 0.1);
+  border-right-color: rgba(225, 225, 225, 0.1);
+}
+
+.cbl {
+  background-color: rgba(225, 225, 225, 0.1);
 }
 
 .footer-container {
@@ -88,5 +110,5 @@ body {
   font-size: 14px;
   font-style: italic;
   text-align: center;
-  color: aliceblue;
+  color: #fff;
 }
