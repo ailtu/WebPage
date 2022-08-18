@@ -1,4 +1,4 @@
-:root{
+:root {
   --primary: #280028;
   --secondary: #4d004d;
 }
@@ -49,7 +49,7 @@ body {
   transition: 0.4s;
 }
 
-.navbar-container .link:hover{
+.navbar-container .link:hover {
   background-color: var(--secondary);
 }
 
