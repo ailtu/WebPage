@@ -1,9 +1,9 @@
 # O que é este repositório? What is this repository?
 
-- Site para apresentação da InfraByte a clientes.
+- Meu site portifólio, onde apresento os meus projetos, e contato.
  
-- Site for presenting InfraByte to customers.
-
+- My portfolio website, where I present my projects, and contact.
+  
 ## Tecnologias usadas: Technologies used: 
 
 <div align="left">
